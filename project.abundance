@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "Rounded-triangle",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "cc9a1d75-8e83-49db-b11d-b19691f35c2e",
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "Unitless",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
