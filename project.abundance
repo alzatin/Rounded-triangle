@@ -11,7 +11,8 @@
     },
     {
       "name": "h",
-      "ioValue": 15
+      "ioValue": 20,
+      "currentEquation": "20"
     }
   ],
   "topLevel": true,
@@ -36,8 +37,8 @@
     {
       "atomType": "Circle",
       "name": "Circle",
-      "x": 0.25054466230936817,
-      "y": 0.3447204968944099,
+      "x": 0.2463891248937978,
+      "y": 0.32919254658385094,
       "uniqueID": "a95eac67-0df2-4c4c-80fa-e935a83e9edf",
       "ioValues": [
         {
@@ -55,7 +56,7 @@
       "ioValues": [
         {
           "name": "xDist",
-          "ioValue": 7.5
+          "ioValue": 10
         },
         {
           "name": "yDist",
@@ -79,7 +80,7 @@
           "ioValue": {
             "geometry": [
               {
-                "geometry": "4ced6025-3-120-{\"geometry\":\"move-circle-2.5-7.5-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-6",
+                "geometry": "4ced6025-3-120-{\"geometry\":\"move-circle-2.5-10-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-6",
                 "dimension": "2D",
                 "tags": [],
                 "plane": {
@@ -103,7 +104,7 @@
                 "bom": []
               },
               {
-                "geometry": "4ced6025-3-120-{\"geometry\":\"move-circle-2.5-7.5-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-7",
+                "geometry": "4ced6025-3-120-{\"geometry\":\"move-circle-2.5-10-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-7",
                 "dimension": "2D",
                 "tags": [],
                 "plane": {
@@ -127,7 +128,7 @@
                 "bom": []
               },
               {
-                "geometry": "4ced6025-3-120-{\"geometry\":\"move-circle-2.5-7.5-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-8",
+                "geometry": "4ced6025-3-120-{\"geometry\":\"move-circle-2.5-10-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-8",
                 "dimension": "2D",
                 "tags": [],
                 "plane": {
@@ -198,7 +199,7 @@
       "ioValues": [
         {
           "name": "x",
-          "ioValue": 15
+          "ioValue": 20
         }
       ],
       "currentEquation": "x/2"
