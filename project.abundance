@@ -7,13 +7,11 @@
   "ioValues": [
     {
       "name": "corner radius",
-      "ioValue": 5,
-      "currentEquation": "5"
+      "ioValue": 5
     },
     {
       "name": "h",
-      "ioValue": 15,
-      "currentEquation": "15"
+      "ioValue": 15
     }
   ],
   "topLevel": true,
@@ -29,8 +27,8 @@
     {
       "atomType": "Input",
       "name": "corner radius",
-      "x": 0.031349999999999996,
-      "y": 0.19,
+      "x": 0.0264,
+      "y": 0.16,
       "uniqueID": "be777b95-e657-4ee9-992a-a74d4bc375be",
       "ioValues": [],
       "type": "number"
@@ -185,8 +183,8 @@
     {
       "atomType": "Input",
       "name": "h",
-      "x": 0.031349999999999996,
-      "y": 0.28500000000000003,
+      "x": 0.0264,
+      "y": 0.24,
       "uniqueID": "9133ad04-fc80-4608-a154-b47078614d3b",
       "ioValues": [],
       "type": "number"
@@ -208,8 +206,8 @@
     {
       "atomType": "GitHubMolecule",
       "name": "Radial-Pattern",
-      "x": 0.5675381263616558,
-      "y": 0.5869565217391304,
+      "x": 0.5771276595744681,
+      "y": 0.5652173913043479,
       "uniqueID": "14d98b70-d99d-4809-8c26-09dcf9712f55",
       "ioValues": [
         {
@@ -304,8 +302,8 @@
         {
           "atomType": "Input",
           "name": "Number",
-          "x": 0.031349999999999996,
-          "y": 0.19,
+          "x": 0.0264,
+          "y": 0.16,
           "uniqueID": "dec33819-bb26-40f3-934f-a832bc755968",
           "ioValues": [],
           "type": "number"
@@ -313,8 +311,8 @@
         {
           "atomType": "Input",
           "name": "Angle",
-          "x": 0.031349999999999996,
-          "y": 0.28500000000000003,
+          "x": 0.0264,
+          "y": 0.24,
           "uniqueID": "ee2058a9-f306-4a2c-b088-546bd060791b",
           "ioValues": [],
           "type": "number"
@@ -322,8 +320,8 @@
         {
           "atomType": "Input",
           "name": "Shape",
-          "x": 0.031349999999999996,
-          "y": 0.38,
+          "x": 0.0264,
+          "y": 0.32,
           "uniqueID": "250fb524-0e2f-44d7-a523-87f7dc4fd3ba",
           "ioValues": [],
           "type": "number"
